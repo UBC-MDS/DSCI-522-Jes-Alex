@@ -12,7 +12,7 @@
 
 ### Results
 
-- Using a decistion tree model our findings suggest (1) Shot Distance, (2) Shot Clock and (3) Touch Time were the strongest predictors in dictating whether Lebron James would make a shot or not.
+- Using a decision tree model our findings suggest (1) Shot Distance, (2) Shot Clock and (3) Touch Time were the strongest predictors in dictating whether Lebron James would make a shot or not.
 
 ### Dependencies
 
